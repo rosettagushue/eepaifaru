@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://abahgeimie.henriksjokvist.net/sitemap.xml
